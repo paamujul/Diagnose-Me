@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environments
+env/
+
+# FastAPI build artifacts
+*.log
+*.pid
+
+# OS / Mac / Editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# Uploaded images / files
+uploads/
+*.jpg
+*.jpeg
+*.png
+
+# Model weights
+*.h5
+*.pt
+*.pth
+*.onnx
+*.pickle
+*.pkl
+
+# Byte-compiled / temporary files
+*.egg-info/
+.eggs/
+
+# Docker
+*.dockerignore
+dist/
+build/
